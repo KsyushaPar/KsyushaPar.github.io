@@ -1,1 +1,1 @@
-https://tatsiana-belanouskaya.github.io/cv
+https://ksyushapar.github.io/cv
