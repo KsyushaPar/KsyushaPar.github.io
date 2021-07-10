@@ -1,6 +1,7 @@
 # Портфолио Belanouskaya Tatsiana.
 
 <img src="/img/photo_.jpg" alt="drawing" width="20%"/>
+<img src="https://sebweo.com/wp-content/uploads/2019/06/landshaft-bernskikh-alp-v-yasniy-den_thumb.jpg" alt="drawing" width="20%"/>
 
 ## Контакты:
 * Номер телефона: [+37529 157 79 18](tel:+375291577918)
